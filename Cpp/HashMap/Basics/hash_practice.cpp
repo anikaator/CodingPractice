@@ -1,3 +1,7 @@
+/*
+ * HASH MAP implementation in cpp
+ */
+
 #include <iostream>
 #include <map>
 #include <iterator>
