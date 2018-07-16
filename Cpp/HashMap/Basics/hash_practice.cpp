@@ -32,7 +32,6 @@ class HashMap {
     //functions
         void insert_number_into_hashmap(int, int);
         void insert_number_into_hashmap_nodup(int, int);
-        //delete_number_from_hashmap()
         void display_hashmap();
         void autodisplay_hashmap();
         void erase_all();
