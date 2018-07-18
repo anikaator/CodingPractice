@@ -15,7 +15,7 @@
 
 - Faster than STL maps and works better in larger set.
 
-* HashMap implementation
+## HashMap implementation
     * A bucket is one element of HashMap array. It is used to store nodes
     * Two or more nodes can have the same bucket. In that case link list structure is used to connect the nodes
     * Buckets are different in capacity. A relation between bucket and capacity is as follows:
