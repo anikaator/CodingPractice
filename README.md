@@ -3,6 +3,7 @@
 ### To-do list:
 
 #### Data structures
+- [ ] constant pointer
 - [ ] Bloom filter
 - [ ] Hash implemantation both RBTree & Bucket
 
