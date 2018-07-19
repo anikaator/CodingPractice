@@ -2,8 +2,8 @@
 
 ### To-do list:
 
-## Data structures
+#### Data structures
 - [ ] Bloom filter
 
-## Before interview
+#### Before interview
 - [ ] Preparation Grid (Pg 29)
