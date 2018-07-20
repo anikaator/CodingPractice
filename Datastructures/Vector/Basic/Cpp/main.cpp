@@ -23,7 +23,6 @@ int main() {
     my_vec.shrink_to_fit();
     cout << "Shrinked to size 8 :";
     for_each (my_vec.begin(), my_vec.end(), print);
-
     cout << "\nReference operator [2] : = " << my_vec[2];
 
     cout << "\nat : my_vec.at(4) = " << my_vec.at(4);
@@ -34,12 +33,20 @@ int main() {
 
     my_vec.emplace_back(88);
     cout << "\nemplace_back(88) : inserting to end ";
+    for (auto it = my_vec.begin(); it != my_vec.end(); ++it) {
+        cout << " " << *it;
+    }
 
     my_vec.erase(my_vec.begin());
     cout << "\nremove first element my_vec.erase(my_vec.begin()) ";
+    for (auto it = my_vec.begin(); it != my_vec.end(); ++it) {
+        cout << " " << *it;
+    }
 
     my_vec.insert(my_vec.begin(), 99);
     cout << "\nmy_vec.insert(my_vec.begin(), 99) : inserting to 99 to start";
-    for_each (my_vec.begin(), my_vec.end(), print);
+    for (auto it = my_vec.begin(); it != my_vec.end(); ++it) {
+        cout << " " << *it;
+    }
     return 0;
 }
