@@ -4,3 +4,4 @@
   3. [Given two strings, write a method to decide if one is a permutation of the other.](../CrackingCodingInterview/sol1.2)
   4. [Remove Duplicates from Sorted Array](./remove_duplicates_from_sorted_array)
   5. [Letter Combinations of a Phone Number](./letter_combinations_of_a_phone_number)
+  6. [Longest Substring Without Repeating Characters](./longest_substring_without_repeatingh_caracters)
