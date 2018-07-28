@@ -5,3 +5,6 @@
   4. [Remove Duplicates from Sorted Array](./remove_duplicates_from_sorted_array)
   5. [Letter Combinations of a Phone Number](./letter_combinations_of_a_phone_number)
   6. [Longest Substring Without Repeating Characters](./longest_substring_without_repeatingh_caracters)
+  
+## List:
+  1. [Remove Nth Node From End of List](./remove_nth_node_from_end_of_list)
