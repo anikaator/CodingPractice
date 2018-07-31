@@ -6,6 +6,7 @@
   5. [Letter Combinations of a Phone Number](./letter_combinations_of_a_phone_number)
   6. [Longest Substring Without Repeating Characters](./longest_substring_without_repeatingh_caracters)
   7. [Check of sudoku is valid](./valid_sudoku)
+  8. [Palindrome Permutation](../CrackingCodingInterview/sol1.4)
   
 ## List:
   1. [Remove Nth Node From End of List](./remove_nth_node_from_end_of_list)
