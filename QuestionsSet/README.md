@@ -7,7 +7,8 @@
   6. [Longest Substring Without Repeating Characters](./longest_substring_without_repeatingh_caracters)
   7. [Check of sudoku is valid](./valid_sudoku)
   8. [Palindrome Permutation](../CrackingCodingInterview/sol1.4)
-  9. [Find distance between two words - HARD](./edit_distance)
+  9. [Find distance between two words - HARD - UNSOLVED](./edit_distance)
+ 10. [Print all anagrams together](./group_anagrams)
   
 ## List:
   1. [Remove Nth Node From End of List](./remove_nth_node_from_end_of_list)
