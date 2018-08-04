@@ -9,6 +9,7 @@
   8. [Palindrome Permutation](../CrackingCodingInterview/sol1.4)
   9. [Find distance between two words - HARD - UNSOLVED](./edit_distance)
  10. [Print all anagrams together](./group_anagrams)
+ 11. [Find the duplicate number - (Cycle detection)](./find_the_duplicate_number)
   
 ## List:
   1. [Remove Nth Node From End of List](./remove_nth_node_from_end_of_list)
