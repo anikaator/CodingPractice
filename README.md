@@ -13,6 +13,7 @@ Site : https://anikaator.github.io/CodingPractice/
  11. [Find the duplicate number - (Cycle detection)](./QuestionsSet/find_the_duplicate_number)
  12. [String Compression](./CrackingCodingInterview/sol1.6)
  13. [Rotate matrix](./CrackingCodingInterview/sol1.7)
+ 14. [Zero Matrix](./CrackingCodingInterview/sol1.8)
   
 ## List:
   1. [Remove Nth Node From End of List](./QuestionsSet/remove_nth_node_from_end_of_list)
