@@ -5,3 +5,4 @@
 3. [Palindrome Permutation](./sol1.4)
 4. [String Compression](./sol1.6)
 5. [Rotate matrix](./sol1.7)
+6. [Zero matrix](./sol1.8)
