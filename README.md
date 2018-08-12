@@ -17,3 +17,4 @@ Site : https://anikaator.github.io/CodingPractice/
   
 ## List:
   1. [Remove Nth Node From End of List](./QuestionsSet/remove_nth_node_from_end_of_list)
+  2. [Group even and odd from list](./QuestionsSet/odd_even_sll)
