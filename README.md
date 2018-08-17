@@ -22,3 +22,4 @@ Site : https://anikaator.github.io/CodingPractice/
 
 ## Stack:
   1. [Three stack using single array](./CrackingCodingInterview/sol3.1)
+  2. [Implement min stack](./CrackingCodingInterview/sol3.1)
