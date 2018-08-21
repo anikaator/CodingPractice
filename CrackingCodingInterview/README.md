@@ -11,4 +11,5 @@
 ## Chapter 3
 1. [Three stack using single array](./sol3.1)
 2. [Implement min stack](./sol3.2)
+3. [Stack of plates](./sol3.3)
 
