@@ -27,3 +27,7 @@ Site : https://anikaator.github.io/CodingPractice/
   2. [Implement min stack](./CrackingCodingInterview/sol3.2)
   3. [Stack of plates](./CrackingCodingInterview/sol3.3)
   4. [Queue via stack](./CrackingCodingInterview/sol3.4)
+
+## Tree & Graph:
+  1. [Create a bst with minimal height from sorted arr](./CrackingCodingInterview/sol4.2)
+  2. [Creates a linked list of all the nodes at each depth ](./CrackingCodingInterview/sol4.3)
