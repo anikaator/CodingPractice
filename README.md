@@ -31,3 +31,4 @@ Site : https://anikaator.github.io/CodingPractice/
 ## Tree & Graph:
   1. [Create a bst with minimal height from sorted arr](./CrackingCodingInterview/sol4.2)
   2. [Creates a linked list of all the nodes at each depth ](./CrackingCodingInterview/sol4.3)
+  3. [Check if Binary tree is balanced](./QuestionsSet/check_balanced_bst)
