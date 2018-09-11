@@ -1,5 +1,6 @@
 #include <iostream>
 #include <array>
+#include <climits>
 using namespace std;
 
 struct node {
@@ -49,7 +50,7 @@ void print_inorder(node* head, int space) {
 }
 
 
-bool checkBst(struct node* root, int min, int max) {
+bool checkBst(struct node* root, long long int  min, long long int max) {
     if (root == NULL)
         return true;
     cout << endl << "Am checking : " << root->data << " with min " << min << " and max "<< max;
@@ -66,7 +67,7 @@ int main() {
     array<int,10> arr {1,2,3,3,5,6,7,8,9,10};
     node* head = form_tree(arr, 0, 9);
     print_inorder(head, 0);
-    bool ret = checkBst(head, -999999, 999999);
+    bool ret = checkBst(head, LLONG_MIN , LLONG_MAX);
     if (ret)
         cout << endl << "Tree is BST";
     else
