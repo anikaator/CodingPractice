@@ -17,3 +17,5 @@
 ## Chapter 4 (Tree & Graphs)
 1. [Create a bst with minimal height from sorted arr](./sol4.2)
 2. [Creates a linked list of all the nodes at each depth ](./sol4.3)
+3. [Check if BST is balanced](./sol4.4)
+4. [Validate tree is BST](./sol4.5)
