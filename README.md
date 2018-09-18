@@ -33,3 +33,4 @@ Site : https://anikaator.github.io/CodingPractice/
   2. [Creates a linked list of all the nodes at each depth ](./CrackingCodingInterview/sol4.3)
   3. [Check if Binary tree is balanced](./QuestionsSet/check_balanced_bst)
   4. [Validate tree is BST](./QuestionsSet/sol4.5)
+  5. [Reconstruct the itinerary in order](./QuestionsSet/recontruct_itinerary)
