@@ -34,3 +34,4 @@ Site : https://anikaator.github.io/CodingPractice/
   3. [Check if Binary tree is balanced](./QuestionsSet/check_balanced_bst)
   4. [Validate tree is BST](./QuestionsSet/sol4.5)
   5. [Reconstruct the itinerary in order](./QuestionsSet/recontruct_itinerary)
+  6. [Network time delay](./QuestionSet/network_delay_time)
