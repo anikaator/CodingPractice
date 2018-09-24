@@ -16,7 +16,8 @@ Site : https://anikaator.github.io/CodingPractice/
  14. [Zero Matrix](./CrackingCodingInterview/sol1.8)
  15. [Number of Segments in a String](./QuestionsSet/num_of_segment_in_string)
  16. [Intersection of Two Arrays](./QuestionsSet/intersection_of_2_arr)
-  
+ 17. [Find pivot where left sum and right sum is eq](./QuestionsSet/find_idx_in_arr_sumleft_iseq_sumright) 
+ 
 ## List:
   1. [Remove Nth Node From End of List](./QuestionsSet/remove_nth_node_from_end_of_list)
   2. [Group even and odd from list](./QuestionsSet/odd_even_sll)
