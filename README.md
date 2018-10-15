@@ -19,6 +19,7 @@ Site : https://anikaator.github.io/CodingPractice/
  17. [Find pivot where left sum and right sum is eq](./QuestionsSet/find_idx_in_arr_sumleft_iseq_sumright) 
  18. [Merge overlapping intervals](./QuestionsSet/merge_interval)
  19. [Check if number is valid](./QuestionsSet/check_valid_number)
+ 20. [Valid Palindrome case sensitive alpha num](./QuestionsSet/valid_palindrome)
  
 ## List:
   1. [Remove Nth Node From End of List](./QuestionsSet/remove_nth_node_from_end_of_list)
