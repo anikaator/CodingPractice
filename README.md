@@ -21,7 +21,8 @@ Site : https://anikaator.github.io/CodingPractice/
  19. [Check if number is valid](./QuestionsSet/check_valid_number)
  20. [Valid Palindrome case sensitive alpha num](./QuestionsSet/valid_palindrome)
  21. [Check palindrome with max one delete](./QuestionsSet/check_palindrome2)
- 22. [Binary number addtion] (./QuestionsSet/binary_addtion)
+ 22. [Binary number addtion](./QuestionsSet/binary_addtion)
+ 23. [Last word length](./QuestionsSet/last_word_len)
  
 ## List:
   1. [Remove Nth Node From End of List](./QuestionsSet/remove_nth_node_from_end_of_list)
