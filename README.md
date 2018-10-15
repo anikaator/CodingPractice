@@ -23,6 +23,7 @@ Site : https://anikaator.github.io/CodingPractice/
  21. [Check palindrome with max one delete](./QuestionsSet/check_palindrome2)
  22. [Binary number addtion](./QuestionsSet/binary_addtion)
  23. [Last word length](./QuestionsSet/last_word_len)
+ 24. [Num of unique path in nxm matrix](./QuestionsSet/unique_path_matrix)
  
 ## List:
   1. [Remove Nth Node From End of List](./QuestionsSet/remove_nth_node_from_end_of_list)
