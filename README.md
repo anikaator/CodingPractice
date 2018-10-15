@@ -17,6 +17,7 @@ Site : https://anikaator.github.io/CodingPractice/
  15. [Number of Segments in a String](./QuestionsSet/num_of_segment_in_string)
  16. [Intersection of Two Arrays](./QuestionsSet/intersection_of_2_arr)
  17. [Find pivot where left sum and right sum is eq](./QuestionsSet/find_idx_in_arr_sumleft_iseq_sumright) 
+ 18. [Merge overlapping intervals](./QuestionsSet/merge_interval)
  
 ## List:
   1. [Remove Nth Node From End of List](./QuestionsSet/remove_nth_node_from_end_of_list)
