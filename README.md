@@ -43,6 +43,7 @@ Site : https://anikaator.github.io/CodingPractice/
   4. [Validate tree is BST](./QuestionsSet/sol4.5)
   5. [Reconstruct the itinerary in order](./QuestionsSet/recontruct_itinerary)
   6. [Network time delay](./QuestionSet/network_delay_time)
+  7. [Convert linklist into BST](./QuestionSet/sll2bst)
   
 ## Dynamic Programming:
   1. [House robber](./QuestionsSet/house_robber)
