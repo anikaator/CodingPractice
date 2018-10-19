@@ -45,6 +45,10 @@ Site : https://anikaator.github.io/CodingPractice/
   5. [Reconstruct the itinerary in order](./QuestionsSet/recontruct_itinerary)
   6. [Network time delay](./QuestionSet/network_delay_time)
   7. [Convert linklist into BST](./QuestionSet/sll2bst)
+  8. [Find diameter of BT](/.QuestionsSet/dia_of_binarytree)
+  9. [Find all path from root to leaf](/.QuestionsSet/binary_tree_path)
+ 10. [Check if two tree are same](/.QuestionsSet/same_tree)
+ 11. [Flatened BT to sll](/.QuestionsSet/flatened_bt2sll)
   
 ## Dynamic Programming:
   1. [House robber](./QuestionsSet/house_robber)
