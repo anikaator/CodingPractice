@@ -26,6 +26,8 @@ Site : https://anikaator.github.io/CodingPractice/
  24. [Num of unique path in nxm matrix](./QuestionsSet/unique_path_matrix)
  25. [Min Window substring](./QuestionsSet/min_win_substring)[I]
  26. [Reverse letters](./QuestionsSet/reverse_letter)
+ 27. [Reverse words in string](./QuestionsSet/reverse_words_in_string)
+ 28. [Number of island](./QuestionsSet/num_of_islands)
  
 ## List:
   1. [Remove Nth Node From End of List](./QuestionsSet/remove_nth_node_from_end_of_list)
