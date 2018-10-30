@@ -55,3 +55,4 @@ Site : https://anikaator.github.io/CodingPractice/
   
 ## Dynamic Programming:
   1. [House robber](./QuestionsSet/house_robber)
+  2. [Frog jump](./QuestionsSet/frog_jump)
