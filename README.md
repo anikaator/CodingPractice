@@ -39,7 +39,8 @@ Site : https://anikaator.github.io/CodingPractice/
   2. [Implement min stack](./CrackingCodingInterview/sol3.2)
   3. [Stack of plates](./CrackingCodingInterview/sol3.3)
   4. [Queue via stack](./CrackingCodingInterview/sol3.4)
-
+  5. [Top K Frequent Words](./QuestionsSet/top_k_freq_words)
+  
 ## Tree & Graph:
   1. [Create a bst with minimal height from sorted arr](./CrackingCodingInterview/sol4.2)
   2. [Creates a linked list of all the nodes at each depth ](./CrackingCodingInterview/sol4.3)
@@ -58,3 +59,4 @@ Site : https://anikaator.github.io/CodingPractice/
   2. [Frog jump](./QuestionsSet/frog_jump)
   3. [Counting bits in number](./QuestionsSet/counting_bits)
   4. [Most common word in para](./QuestionsSet/most_common_word)
+
