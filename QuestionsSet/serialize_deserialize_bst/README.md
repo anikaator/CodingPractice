@@ -7,7 +7,7 @@ Design an algorithm to serialize and deserialize a binary tree. There is no rest
 Example: 
 
 You may serialize the following tree:
-
+```
     1
    / \
   2   3
@@ -15,3 +15,4 @@ You may serialize the following tree:
     4   5
 
 as "[1,2,3,null,null,4,5]"
+```
