@@ -27,7 +27,7 @@ ALMIGHT
 ```
 
 - Suffle array
-```
+```cpp
 void randomize ( int arr[], int n ) 
 { 
     // Use a different seed value so that we don't get same 
