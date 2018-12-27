@@ -63,6 +63,7 @@ Site : https://anikaator.github.io/CodingPractice/
  11. [Flatened BT to sll](./QuestionsSet/flatened_bt2sll)
  12. [Serialize and Deserialize BST](./QuestionsSet/serialize_deserialize_bst)
  13. [Find depth of a n-ary tree](./QuestionsSet/depth_of_nary_tree)
+ 14. [Subtree of another tree](./QuestionsSet/subtree_of_another_tree)
   
 ## Dynamic Programming:
   1. [House robber](./QuestionsSet/house_robber)
