@@ -34,6 +34,7 @@ Site : https://anikaator.github.io/CodingPractice/
  32. [Sort array by parity](./QuestionsSet/sort_arr_by_parity)
  33. [N-Repeated Element in Size 2N Array](./QuestionsSet/n_repeated_elem_in_arr)
  34. [Maximum width ramp](./QuestionsSet/max_width_ramp)
+ 35. [Sum of 4 interger from 4 array is zero](./QuestionsSet/cnt_sum_0_in_4arr)
  
 ## List:
   1. [Remove Nth Node From End of List](./QuestionsSet/remove_nth_node_from_end_of_list)
