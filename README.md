@@ -49,6 +49,7 @@ Site : https://anikaator.github.io/CodingPractice/
   3. [Stack of plates](./CrackingCodingInterview/sol3.3)
   4. [Queue via stack](./CrackingCodingInterview/sol3.4)
   5. [Top K Frequent Words](./QuestionsSet/top_k_freq_words)
+  6. [Max stack](./QuestionsSet/max_stack)
   
 ## Tree & Graph:
   1. [Create a bst with minimal height from sorted arr](./CrackingCodingInterview/sol4.2)
